@@ -1,5 +1,3 @@
-Here is a README.md template you can use to document your investing blog Django project:
-
 # Investing Blog
 
 This is the source code for my stock market investing blog built using Django. I'm using this project to document my investing journey as a beginner and share what I learn along the way.
