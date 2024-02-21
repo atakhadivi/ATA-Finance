@@ -81,17 +81,16 @@ This project is open-sourced under the [MIT license](https://choosealicense.com/
 
 ## Todo-List
 
-- [ ] Install Django and other dependencies
-- [ ] Create virtual environment
-- [ ] Install Django, other libraries like Chart.js, pandas, etc
-- [ ] Create Django project and core app
-- [ ] Start new Django project
-- [ ] Configure settings like DATABASES
-- [ ] Create app called 'blog' for blog functionality
-- [ ] Set up models
-- [ ] Create Post, Category, Tag, Comment models
-- [ ] Add title, content, date published etc fields
-- [ ] Enable admin
+- [x] Create virtual environment
+- [x] Install Django and other dependencies
+- [x] Install Django, other libraries like Chart.js, pandas, etc
+- [x] Create Django project and core app
+- [x] Start new Django project
+- [x] Configure settings like DATABASES
+- [x] Create app called 'blog' for blog functionality
+- [x] Create Post, Category, Tag, Comment models
+- [x] Add title, content, date published etc fields
+- [x] Enable admin
 - [ ] Create basic views and templates
 - [ ] Homepage view showing recent posts
 - [ ] Post detail view
