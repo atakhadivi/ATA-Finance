@@ -83,4 +83,42 @@ This project is open-sourced under the [MIT license](https://choosealicense.com/
 
 ## Todo-List
 
--[ ]Install Django and other dependencies -[ ]Create virtual environment -[ ]Install Django, other libraries like Chart.js, pandas, etc -[ ]Create Django project and core app -[ ]Start new Django project -[ ]Configure settings like DATABASES -[ ]Create app called 'blog' for blog functionality -[ ]Set up models -[ ]Create Post, Category, Tag, Comment models -[ ]Add title, content, date published etc fields -[ ]Enable admin -[ ]Create basic views and templates -[ ]Homepage view showing recent posts -[ ]Post detail view -[ ]Basic post list and detail templates -[ ]Set up URLs and templates -[ ]URLs to route homepage, post details, archives -[ ]Create base template for layout -[ ]Template inheritance for efficiency -[ ]Add blog functionality -[ ]WYSIWYG editor for writing content -[ ]Tags and categories -[ ]Commenting system -[ ]Style templates -[ ]Basic CSS for layout, styling -[ ]Possibly Bootstrap for responsiveness -[ ]Add user registration and profiles -[ ]Built-in or custom user model -[ ]User profile model to store portfolios -[ ]Implement portfolio tracking and tools -[ ]Add stock ticker symbols -[ ]Connect 3rd party APIs for pricing data -[ ]Charts and graphs -[ ]Metric calculators -[ ]Final touches -[ ]Contact page -[ ]Email newsletter -[ ]SEO optimization -[ ]Deployment on live server!
+- [ ] Install Django and other dependencies
+- [ ] Create virtual environment
+- [ ] Install Django, other libraries like Chart.js, pandas, etc
+- [ ] Create Django project and core app
+- [ ] Start new Django project
+- [ ] Configure settings like DATABASES
+- [ ] Create app called 'blog' for blog functionality
+- [ ] Set up models
+- [ ] Create Post, Category, Tag, Comment models
+- [ ] Add title, content, date published etc fields
+- [ ] Enable admin
+- [ ] Create basic views and templates
+- [ ] Homepage view showing recent posts
+- [ ] Post detail view
+- [ ] Basic post list and detail templates
+- [ ] Set up URLs and templates
+- [ ] URLs to route homepage, post details, archives
+- [ ] Create base template for layout
+- [ ] Template inheritance for efficiency
+- [ ] Add blog functionality
+- [ ] WYSIWYG editor for writing content
+- [ ] Tags and categories
+- [ ] Commenting system
+- [ ] Style templates
+- [ ] Basic CSS for layout, styling
+- [ ] Possibly Bootstrap for responsiveness
+- [ ] Add user registration and profiles
+- [ ] Built-in or custom user model
+- [ ] User profile model to store portfolios
+- [ ] Implement portfolio tracking and tools
+- [ ] Add stock ticker symbols
+- [ ] Connect 3rd party APIs for pricing data
+- [ ] Charts and graphs
+- [ ] Metric calculators
+- [ ] Final touches
+- [ ] Contact page
+- [ ] Email newsletter
+- [ ] SEO optimization
+- [ ] Deployment on live server!
